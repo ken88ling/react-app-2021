@@ -10,12 +10,14 @@ import HeroPanel from './components/HeroPanel';
 function App() {
   return (
     <>
+
       <div>
         <Nav />
       </div>
       <div>
         <HeroPanel />
       </div>
+   
       <div>
         <WhyMember />
       </div>
